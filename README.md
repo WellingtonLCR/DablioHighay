@@ -70,9 +70,6 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 <br />
 
 # 📊 GitHub Stats:
-
-![DablioHighay GitHub stats](https://github-readme-stats.vercel.app/api?username=DablioHighay_icons=true&theme=dark&hide_border=true)
-
 <div>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DablioHighay&layout=compact&langs_count=16&theme=dark"/>
 </div>
