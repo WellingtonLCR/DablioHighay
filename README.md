@@ -21,11 +21,15 @@ new Person({
 ```cmd
 Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 ```
+
+<!-- About Section -->
+ # About me
+ 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Aproveite para fazer programação e compartilhar conhecimento.<br/><br/>
- ❤️ &emsp; Adoro escrever código e aprender novos recursos.<br/><br/>
+ ✌️ &emsp; Aproveite para fazer programação e compartilhar conhecimento <br/><br/>
+ ❤️ &emsp; Adoro escrever código e aprender novos recursos<br/><br/>
  💬 &emsp; Pergunte-me sobre qualquer coisa: [here](https://www.linkedin.com/in/wellington-luis-costa-ribeiro-51452018a?)
 
 </p>
