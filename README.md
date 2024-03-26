@@ -3,7 +3,7 @@
 
 <picture> 
 <a href="" alt="Developer">
-<img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv)" align="right" width="350">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="350">
 </a>
 </picture>
 
