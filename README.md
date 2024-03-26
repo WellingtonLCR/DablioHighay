@@ -19,7 +19,9 @@ new Person({
 ```
 
 ```cmd
+<p>
 Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
+</p>
 ```
 
 <!-- About Section -->
