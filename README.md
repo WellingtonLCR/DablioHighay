@@ -69,14 +69,4 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnzera&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
