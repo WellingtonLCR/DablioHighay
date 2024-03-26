@@ -19,7 +19,7 @@ new Person({
 ```
 
 ```cmd
-Hi, my name is Wellington Luis, I'm a Full Stack Developer from Brazil.
+Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 ```
  
 <p>
