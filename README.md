@@ -71,7 +71,8 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 
 # 📊 GitHub Stats:
 <div>
-  <img  height="170em" src="[https://github-readme-stats.vercel.app/api?username=devjoelfranco&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=DablioHighay&theme=omni&hide_border=false&include_all_commits=true&count_private=true)"/>
-  <img align="right" height="170em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=DablioHighay&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)"/>
+  
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=devjoelfranco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoelfranco&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
