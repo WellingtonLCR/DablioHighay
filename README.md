@@ -2,8 +2,8 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<a href="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv)" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+<a href="" alt="Developer">
+<img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv)" align="right" width="350">
 </a>
 </picture>
 
