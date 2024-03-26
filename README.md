@@ -18,13 +18,11 @@ new Person({
 }).introduce();
 ```
 
-```cmd
- #
-<p>
-    Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
-</p>
 ```
-
+```cmd
+D:\Well_luis>index.js
+Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
+```
 <!-- About Section -->
  #
 <p>
