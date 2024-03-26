@@ -23,6 +23,7 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 ```
 
 <!-- About Section -->
+ #
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
