@@ -50,12 +50,3 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
