@@ -19,10 +19,8 @@ new Person({
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+Hi, my name is Wellington Luis, I'm a Full Stack Developer from Brazil.
 ```
-
 
 <!-- About Section -->
  # Sobre mim
