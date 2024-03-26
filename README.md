@@ -21,9 +21,6 @@ new Person({
 ```cmd
 Hi, my name is Wellington Luis, I'm a Full Stack Developer from Brazil.
 ```
-
-<!-- About Section -->
- # Sobre mim
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
