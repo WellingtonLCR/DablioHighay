@@ -79,9 +79,4 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnzera&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
