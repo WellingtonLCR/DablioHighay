@@ -1,5 +1,33 @@
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
+
+```js
+"use creativity";
+import { Person } from 'indonesia';
+
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id',
+    married: !!!true,
+}).introduce();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+
+
 <!-- About Section -->
- # About me
+ # Sobre mim
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -11,6 +39,4 @@
 
 </p>
 
-<br/>
-<br/>
 <br/>
