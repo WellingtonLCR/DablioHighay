@@ -69,8 +69,7 @@ Hi, my name is Wellington, I'm a Full Stack Developer from Brazil.
 <br />
 <br />
 
-# 📊 GitHub Stats:
-<div>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DablioHighay&layout=compact&langs_count=16&theme=dark"/>
+## 📊 GitHub Stats
+
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonLCR&layout=compact&langs_count=16&theme=dark"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WellingtonLCR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
-<br>
